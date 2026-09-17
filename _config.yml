@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   name             : "MD Nashid Anjum"
-  avatar           : "profile.png"
+  avatar           : "profilePic.png"
   pronouns         : # example: "he/him"  
   bio              : "Assistant Professor Of Computer Science Algoma University"
   location         : "Toronto, Canada"
